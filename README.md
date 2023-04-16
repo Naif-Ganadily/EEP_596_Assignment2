@@ -1,6 +1,6 @@
 # EEP_596_Assignment2
 Spam Classification using Machine Learning
-Hello! I am a Masters student in Electrical Engineering with a strong interest in AI and machine learning, and I'd like to present my spam classification project. The primary objective of this project is to develop a model that can accurately classify emails as spam or not spam. By showcasing my understanding of natural language processing, machine learning, and data preprocessing techniques.
+The primary objective of this project is to develop a model that can accurately classify emails as spam or not spam. By showcasing my understanding of natural language processing, machine learning, and data preprocessing techniques.
 
 Project Overview
 The project is structured in several stages, including data preprocessing, feature extraction, model implementation, evaluation, and prediction on external test data. I have implemented and compared the following classification algorithms:
