@@ -1,8 +1,8 @@
 # EEP 596 Assignment 2
 # Spam Classification using Machine Learning
-The primary objective of this project is to develop a model that can accurately classify emails as spam or not spam. By showcasing my understanding of natural language processing, machine learning, and data preprocessing techniques.
+The primary objective of this assignment is to develop a model that can accurately classify emails as spam or not spam. By showcasing my understanding of natural language processing, machine learning, and data preprocessing techniques.
 
-### Project Overview
+### Assignment Overview
 The project is structured in several stages, including data preprocessing, feature extraction, model implementation, evaluation, and prediction on external test data. I have implemented and compared the following classification algorithms:
 
 1- Logistic Regression
@@ -23,7 +23,7 @@ To train and evaluate the performance of different models, I split the dataset i
 Using the best-performing model, I predicted spam classification on an external test set. The results are saved in a CSV format, adhering to the desired submission format. This step demonstrates the model's ability to generalize well on unseen data, showcasing its practical applicability in real-world scenarios.
 
 ### Key Competencies
-This project highlights my expertise in:
+This assignment highlights my expertise in:
 
 * Natural Language Processing techniques for textual data
 * Data preprocessing and feature extraction for machine learning
