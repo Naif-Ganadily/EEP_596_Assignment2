@@ -1,6 +1,8 @@
 # EEP 596 Assignment 2
 # Spam Classification using Machine Learning
+
 The primary objective of this assignment is to develop a model that can accurately classify emails as spam or not spam. By showcasing my understanding of natural language processing, machine learning, and data preprocessing techniques.
+This repository contains Programming Assignment 2 for the course EE P 596: Advanced Introduction to Machine Learning. The assignment, instructed by Prof. Karthik Mohan, Student: Naif A Ganadily, TA: Ayush Singh, Grader: Fatwir SM.
 
 ### Assignment Overview
 The project is structured in several stages, including data preprocessing, feature extraction, model implementation, evaluation, and prediction on external test data. I have implemented and compared the following classification algorithms:
